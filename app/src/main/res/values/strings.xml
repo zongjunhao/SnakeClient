@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="startGame">开始游戏</string>
+    <string name="playerDeath">您的贪吃蛇已死亡，点击重新开始游戏</string>
+    <string name="confirm">确定</string>
+</resources>
